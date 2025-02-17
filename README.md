@@ -4,6 +4,5 @@
 
 - 🔭 I’m currently working at Inetum-Realdolmen Belgium as a Software engineer
 - 🌱 I’m using ReactJs/React Native and NextJs
-- 🤔 I’m looking for help with to be a better dev so if you have some tips don't hesitate
 - 📫 How to reach me: Discord => boubou#5127 or https://www.linkedin.com/in/abdel-mke/
 
